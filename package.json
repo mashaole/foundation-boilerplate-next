@@ -2,6 +2,7 @@
   "name": "foundation-nextjs",
   "private": true,
   "scripts": {
+    "create-env": "printenv > .env",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
